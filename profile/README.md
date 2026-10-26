@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://kibtak.com/logo-red.svg" alt="KIBTAK Logo" width="250" />
+  <img src="https://bleemapp.com/logo-red.svg" alt="Bleem Logo" width="250" />
 
-  # KIBTAK Digital Solutions
+  # Bleem Technology
   ### KKTC Mobility & Technology Platform
 
-  [![Entity](https://img.shields.io/badge/Entity-Official_Registered_Company-red?style=for-the-badge)](https://kibtak.com)
-  [![Region](https://img.shields.io/badge/Region-Kuzey_Kıbrıs_Türk_Cumhuriyeti-white?style=for-the-badge)](https://kibtak.com)
+  [![Entity](https://img.shields.io/badge/Entity-Official_Registered_Company-red?style=for-the-badge)](https://bleemapp.com)
+  [![Region](https://img.shields.io/badge/Region-Kuzey_Kıbrıs_Türk_Cumhuriyeti-white?style=for-the-badge)](https://bleemapp.com)
 
 </div>
 
@@ -13,7 +13,7 @@
 
 ## Vizyon ve Konumlandırma
 
-**KIBTAK**, Kuzey Kıbrıs Türk Cumhuriyeti'nin yerel dinamiklerine göre optimize edilmiş, ulaşım ve mobilite ekosistemini dijitalleştiren bir teknoloji platformudur. Sadece bir araç çağırma aracı değil, KKTC'nin ulaşım altyapısını modernize eden çift taraflı (yolcu ve sürücü) bir pazar yeridir.
+**Bleem**, Kuzey Kıbrıs Türk Cumhuriyeti'nin yerel dinamiklerine göre optimize edilmiş, ulaşım ve mobilite ekosistemini dijitalleştiren bir teknoloji platformudur. Sadece bir araç çağırma aracı değil, KKTC'nin ulaşım altyapısını modernize eden çift taraflı (yolcu ve sürücü) bir pazar yeridir.
 
 - **Domain:** Mobility / Ride-hailing / Digital Logistics
 - **Bölge:** Kuzey Kıbrıs (KKTC)
@@ -30,7 +30,7 @@ Yazılım geliştirme süreçlerimizde modern ve ölçeklenebilir bir mimari kul
 
 ## Stratejik Odak Noktaları
 
-KIBTAK, KKTC genelinde aşağıdaki ana başlıklarda dijital çözüm ortağı olmayı hedefler:
+Bleem, KKTC genelinde aşağıdaki ana başlıklarda dijital çözüm ortağı olmayı hedefler:
 - **Kuzey Kıbrıs Taksi Şirketleri:** Geleneksel hizmetin dijitalleşmesi.
 - **Kıbrıs VIP Transfer:** Havalimanı ve özel transfer akışlarının otomasyonu.
 - **Yerel Mobilite Verisi:** Bölgesel ulaşım verilerinin optimizasyonu.
@@ -39,15 +39,15 @@ KIBTAK, KKTC genelinde aşağıdaki ana başlıklarda dijital çözüm ortağı 
 
 ## Kurumsal Yapı
 
-KIBTAK Digital Solutions Ltd., Kıbrıs Serbest Bölge merkezli resmi bir teknoloji girişimidir. Geliştirdiğimiz projeler, adadaki ulaşım ekosistemini daha şeffaf, güvenli ve erişilebilir kılmak amacıyla tasarlanmıştır.
+Bleem Technology Ltd., Kıbrıs Serbest Bölge merkezli resmi bir teknoloji girişimidir. Geliştirdiğimiz projeler, adadaki ulaşım ekosistemini daha şeffaf, güvenli ve erişilebilir kılmak amacıyla tasarlanmıştır.
 
 ## İletişim
 
 Stratejik ortaklıklar ve teknik iş birlikleri için:
 
-- **Web:** [kibtak.com](https://kibtak.com)
-- **E-posta:** info@kibtak.com
+- **Web:** [bleemapp.com](https://bleemapp.com)
+- **E-posta:** info@bleemapp.com
 - **Konum:** Cyprus Free Zone / KKTC
 
 ---  
-> *© 2026 KIBTAK Digital Solutions Ltd. All rights reserved.*
+> *© 2026 Bleem Technology Digital Solutions Ltd. All rights reserved.*
