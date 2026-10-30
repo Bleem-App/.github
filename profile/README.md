@@ -1,53 +1,54 @@
 <div align="center">
-  <img src="https://bleemapp.com/logo-red.svg" alt="Bleem Logo" width="250" />
+  <img src="https://bleemapp.com/logo-blue.png" alt="Bleem logo" width="250" />
 
-  # Bleem Technology
-  ### KKTC Mobility & Technology Platform
+  ### Mobility and technology platform for Northern Cyprus
 
-  [![Entity](https://img.shields.io/badge/Entity-Official_Registered_Company-red?style=for-the-badge)](https://bleemapp.com)
-  [![Region](https://img.shields.io/badge/Region-Kuzey_Kıbrıs_Türk_Cumhuriyeti-white?style=for-the-badge)](https://bleemapp.com)
+  [![Website](https://img.shields.io/badge/Website-bleemapp.com-red?style=for-the-badge)](https://bleemapp.com)
+  [![Email](https://img.shields.io/badge/Email-support%40bleemapp.com-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:support@bleemapp.com)
 
 </div>
 
 ---
 
-## Vizyon ve Konumlandırma
+## Vision
 
-**Bleem**, Kuzey Kıbrıs Türk Cumhuriyeti'nin yerel dinamiklerine göre optimize edilmiş, ulaşım ve mobilite ekosistemini dijitalleştiren bir teknoloji platformudur. Sadece bir araç çağırma aracı değil, KKTC'nin ulaşım altyapısını modernize eden çift taraflı (yolcu ve sürücü) bir pazar yeridir.
+**Bleem** is a technology platform that digitizes the transport and mobility ecosystem of the Turkish Republic of Northern Cyprus (TRNC), built around local dynamics rather than adapted from elsewhere. It is more than a ride-hailing app: it is a two-sided marketplace, connecting passengers and drivers, that modernizes the island's transport infrastructure.
 
-- **Domain:** Mobility / Ride-hailing / Digital Logistics
-- **Bölge:** Kuzey Kıbrıs (KKTC)
-- **Hizmet Modeli:** İki taraflı pazar yeri (Passenger + Driver)
+- **Domain:** Mobility, ride-hailing, digital logistics
+- **Region:** Northern Cyprus (TRNC)
+- **Service model:** Two-sided marketplace (passenger and driver)
 
-## Teknolojik Çözümlerimiz
+## What we build
 
-Yazılım geliştirme süreçlerimizde modern ve ölçeklenebilir bir mimari kullanarak, adadaki ulaşım ağını dijital bir ekosisteme dönüştürüyoruz:
+We use a modern, scalable architecture to turn the island's transport network into a digital ecosystem:
 
-*   **Real-Time Tracking:** Yolcular için canlı sürücü takibi ve uçtan uca rota yönetimi.
-*   **Driver Ecosystem:** Sürücüler için dijital iş akışı, talep yönetimi ve verimlilik panelleri.
-*   **VIP Transfer Infrastructure:** VIP transfer süreçlerinin yönetimi için esnek ve genişletilebilir arka plan mimarisi.
-*   **UI/UX Philosophy:** Yerel kullanıcı alışkanlıklarına uygun, modern ve işlevsel tasarım dilleri.
+- **Real-time tracking:** Live driver tracking and end-to-end route management for passengers.
+- **Driver ecosystem:** Digital workflows, request management and efficiency dashboards for drivers.
+- **VIP transfer infrastructure:** A flexible, extensible back end for managing VIP transfer operations.
+- **UI/UX philosophy:** Modern, functional design that fits local user habits.
 
-## Stratejik Odak Noktaları
+## Strategic focus
 
-Bleem, KKTC genelinde aşağıdaki ana başlıklarda dijital çözüm ortağı olmayı hedefler:
-- **Kuzey Kıbrıs Taksi Şirketleri:** Geleneksel hizmetin dijitalleşmesi.
-- **Kıbrıs VIP Transfer:** Havalimanı ve özel transfer akışlarının otomasyonu.
-- **Yerel Mobilite Verisi:** Bölgesel ulaşım verilerinin optimizasyonu.
+Across the TRNC, Bleem aims to be the digital partner for:
+
+- **Northern Cyprus taxi companies:** Taking a traditional service digital.
+- **Cyprus VIP transfer:** Automating airport and private transfer flows.
+- **Local mobility data:** Optimizing regional transport data.
 
 ---
 
-## Kurumsal Yapı
+## Company
 
-Bleem Technology Ltd., Kıbrıs Serbest Bölge merkezli resmi bir teknoloji girişimidir. Geliştirdiğimiz projeler, adadaki ulaşım ekosistemini daha şeffaf, güvenli ve erişilebilir kılmak amacıyla tasarlanmıştır.
+Bleem Technology Ltd. is a registered technology company based in the Cyprus Free Zone. Everything we build is designed to make the island's transport ecosystem more transparent, safe and accessible.
 
-## İletişim
+## Contact
 
-Stratejik ortaklıklar ve teknik iş birlikleri için:
+For strategic partnerships and technical collaboration:
 
 - **Web:** [bleemapp.com](https://bleemapp.com)
-- **E-posta:** info@bleemapp.com
-- **Konum:** Cyprus Free Zone / KKTC
+- **Email:** [support@bleemapp.com](mailto:support@bleemapp.com)
+- **Location:** Cyprus Free Zone, TRNC
 
----  
+---
+
 > *© 2026 Bleem Technology Digital Solutions Ltd. All rights reserved.*
